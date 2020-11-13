@@ -1,7 +1,7 @@
 {
   "name": "eyp-kibana",
   "version": "6.5.0",
-  "author": "eyp",
+  "author": "Jordi Prats",
   "summary": "kibana installation and kibana.yml management",
   "license": "Apache-2.0",
   "source": "https://github.com/SaltaIT/eyp-kibana",
